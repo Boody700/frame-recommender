@@ -1,0 +1,11 @@
+.venv/
+.cache/
+__pycache__/
+*.pyc
+node_modules/
+
+.openai/
+.sites-local/
+.env
+.env.*
+!.env.example
