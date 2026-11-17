@@ -28,4 +28,4 @@
 
 ## Demo sequence
 
-Replace the example taste; compare audience and popularity modes; filter a genre; inspect a real explanation; save a watchlist item; hide and restore a film; clear taste to demonstrate fallback; export/import JSON. Open The algorithm and explain eligibility, catalog coverage and why the paired bootstrap is not online lift. Acknowledge AI assistance and be able to reproduce the scoring code yourself.
+Replace the example taste; compare audience and popularity modes; filter a genre; inspect a real explanation; save a watchlist item; hide and restore a film; clear taste to demonstrate fallback; export/import JSON. Open The algorithm and explain eligibility, catalog coverage and why the paired bootstrap is not online lift. Be able to reproduce the scoring code yourself.

@@ -89,9 +89,9 @@ The [evaluation figure](reports/evaluation.png) contrasts ranking relevance and 
 
 Original data: GroupLens Research, University of Minnesota. Cite Harper, F. M. & Konstan, J. A. (2015), *The MovieLens Datasets: History and Context*, ACM TiiS, [DOI 10.1145/2827872](https://doi.org/10.1145/2827872). The source's research/noncommercial and redistribution conditions are preserved in [data/README.txt](data/README.txt) and [third-party notices](THIRD_PARTY_NOTICES.md). MIT applies to original project code, not the dataset. No endorsement is implied.
 
-AI assistance was used in implementation and documentation. Read the split, scoring and evaluation code, reproduce the experiment, and explain its limitations before presenting it.
+Read the split, scoring and evaluation code, reproduce the experiment, and explain its limitations before presenting it.
 
 
 ## Development
 
-Independent, AI-assisted educational portfolio project. The source, evaluation design and limitations are documented so the work can be inspected and reproduced. GitHub Actions runs the committed browser checks. Python pipeline reproduction uses the commands and data sources described above.
+Independent educational portfolio project. The source, evaluation design and limitations are documented so the work can be inspected and reproduced. GitHub Actions runs the committed browser checks. Python pipeline reproduction uses the commands and data sources described above.
